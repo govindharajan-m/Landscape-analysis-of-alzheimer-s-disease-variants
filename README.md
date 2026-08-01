@@ -1,6 +1,12 @@
 # Landscape-analysis-of-alzheimer-s-disease-variants
-A bioinformatics project that explores clinically reported genetic variants associated with Alzheimer's disease using the ClinVar database. The project extracts variants from established Alzheimer's-associated genes, performs data preprocessing, computes custom gene prioritization metrics, and visualizes the variant landscape.
+A bioinformatics project that explores clinically reported genetic variants associated with Alzheimer's disease using the ClinVar database. The project extracts variants from established Alzheimer's-associated genes, performs data preprocessing, computes custom gene prioritization metrics, and visualizes the variant landscape. Done on python using libraries such as:
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- CSV Streaming
 
+## Dataset Used
 - Source: NCBI ClinVar
 - Assembly: GRCh38
 - Records scanned: ~9 million
