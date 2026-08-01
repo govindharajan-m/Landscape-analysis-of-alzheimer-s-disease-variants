@@ -6,13 +6,13 @@ A bioinformatics project that explores clinically reported genetic variants asso
 - Seaborn
 - CSV Streaming
 
-## Information Sources
+## Information Source
 - Source: NCBI ClinVar
 - Assembly: GRCh38
 - Records scanned: ~9 million
 - Alzheimer's variants analyzed: 5,794
 
-## Outputs
+## Output
 <img width="1000" height="500" alt="Alzheimers gene risk score" src="https://github.com/user-attachments/assets/fb225e18-0ee1-4723-96c1-5893e4182e40" />
 <img width="640" height="480" alt="Clinical significance by gene" src="https://github.com/user-attachments/assets/3ef39058-ea12-4a5b-8f4d-7a6182ae600a" />
 <img width="640" height="480" alt="Variant types" src="https://github.com/user-attachments/assets/fce047aa-51d3-45bf-bcbf-f78a2f100c61" />
