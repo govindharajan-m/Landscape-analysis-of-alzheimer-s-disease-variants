@@ -6,7 +6,7 @@ A bioinformatics project that explores clinically reported genetic variants asso
 - Seaborn
 - CSV Streaming
 
-## Dataset Used
+## Information Sources
 - Source: NCBI ClinVar
 - Assembly: GRCh38
 - Records scanned: ~9 million
